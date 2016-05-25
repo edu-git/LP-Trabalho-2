@@ -1,0 +1,35 @@
+7
+Indiana Jones
+99235-6798
+2
+121
+Ferris Builler
+99854-7642
+0
+115
+John Nash
+99846-1256
+1
+69
+Tony Stark
+99934-1767
+0
+147
+Peter Parker
+99657-0654
+1
+90
+James Raynor
+99978-1260
+1
+91
+Sara Connor
+99921-1265
+2
+47
+40.00
+0.20
+60.00
+0.16
+90.00
+0.12
